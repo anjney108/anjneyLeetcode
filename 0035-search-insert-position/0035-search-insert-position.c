@@ -13,7 +13,6 @@ int searchInsert(int* nums, int numsSize, int target) {
             beg=mid+1;
         }}
         if(loc==-1){
-            numsSize++;
             loc=beg;
         }
     
