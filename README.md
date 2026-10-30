@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/anjney108/anjneyLeetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjney108/anjneyLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anjney108/anjneyLeetcode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/anjney108/anjneyLeetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/anjney108/anjneyLeetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/anjney108/anjneyLeetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/anjney108/anjneyLeetcode/tree/master/0183-customers-who-never-order) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anjney108/anjneyLeetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
